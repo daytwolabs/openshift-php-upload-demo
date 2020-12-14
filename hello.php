@@ -1,3 +1,3 @@
 <?php
-  print("Hello world from GitHub, second attempt!");
+  print("Hello world from GitHub, third attempt!");
 ?>
